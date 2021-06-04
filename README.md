@@ -1,6 +1,7 @@
-# Biomedical Entity Relation Detection
+# Biomedical Entity Relation Detection (BERD)
 
-Postech DI Lab project in 2021/2
+[Postech DI Lab](https://sites.google.com/site/postechdminternal/) project in 2021.01 ~ 2021.03
+Authors: Jaehyun Lee, Wooheon Hong
 
 It shows biomedical entity relation network 
 

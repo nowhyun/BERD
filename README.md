@@ -4,11 +4,13 @@ Authors: Jaehyun Lee, Wooheon Hong
 
 [Postech DI Lab](https://sites.google.com/site/postechdminternal/) project in 2021.01 ~ 2021.03
 
+*For security reasons, we do not disclose the code in the network and data folders.*
+
 It shows biomedical entity relation network 
 
 ![figure_BERD](BERD/resources/figure_BERD.PNG)
 
-It also supports relation network for three or more queries.
+It also supports relation network for one or more queries.
 
 # Requirements 
 - python3 
